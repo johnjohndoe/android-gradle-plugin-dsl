@@ -3,6 +3,8 @@
 This repositories tracks the documentation for the domain specific language used within the Android plugin.
 The HTML pages are rendered at the URL specified above.
 
+![Screenshot of the website][screenshot] 
+
 
 ## Source
 
@@ -17,6 +19,7 @@ The HTML pages are rendered at the URL specified above.
 
 
 
+[screenshot]: gfx/screenshot.png
 [android-plug-in-for-gradle]: https://developer.android.com/tools/building/plugin-for-gradle.html
 [plugin-language-reference]: https://developer.android.com/shareables/sdk-tools/android-gradle-plugin-dsl.zip
 [introduction-to-groovy-and-gradle]: https://www.youtube.com/watch?v=fHhf1xG0pIA
