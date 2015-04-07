@@ -16,6 +16,7 @@ The HTML pages are rendered at the URL specified above.
 
 - [Daniel Lew - Introduction to Groovy and Gradle (2015-03-17)][introduction-to-groovy-and-gradle]
 - [Daniel Lew - Lessons learned from our first Gradle plugin for Android, Victor (2015-03-31)][lessons-learned-gradle-plugin-android-victor]
+- [Ruby script to generate a docset from the Android Gradle Plugin DSL Reference][android-gradle-plugin-dash-docset]
 
 
 
@@ -24,3 +25,4 @@ The HTML pages are rendered at the URL specified above.
 [plugin-language-reference]: https://developer.android.com/shareables/sdk-tools/android-gradle-plugin-dsl.zip
 [introduction-to-groovy-and-gradle]: https://www.youtube.com/watch?v=fHhf1xG0pIA
 [lessons-learned-gradle-plugin-android-victor]: https://trello.engineering/victor/
+[android-gradle-plugin-dash-docset]: https://github.com/tokou/android-gradle-plugin-dash-docset
