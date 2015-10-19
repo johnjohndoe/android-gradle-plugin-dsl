@@ -1,3 +1,9 @@
+# Obsolete / discontinued / deprecated
+
+Meanwhile, Google provides the [official DSL reference][google-android-gradle-plugin-dsl]. (Oct 19, 2015)
+
+---
+
 # Android Plugin DSL Reference
 
 This repositories tracks the documentation for the domain specific language used within the Android plugin.
@@ -20,6 +26,7 @@ The HTML pages are rendered at the URL specified above.
 
 
 
+[google-android-gradle-plugin-dsl]: http://google.github.io/android-gradle-dsl/
 [screenshot]: gfx/screenshot.png
 [android-plug-in-for-gradle]: https://developer.android.com/tools/building/plugin-for-gradle.html
 [plugin-language-reference]: https://developer.android.com/shareables/sdk-tools/android-gradle-plugin-dsl.zip
